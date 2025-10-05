@@ -34,4 +34,11 @@ This project demonstrates how to automate Azure infrastructure provisioning usin
 ---
 
 ## 📂 Repo Structure
+├── azure-pipelines.yml # Azure DevOps pipeline configuration file
+├── main.tf # Terraform code defining resource groups
+├── variables.tf # Terraform variables
+└── README.md # Project documentation (this file)
+
+<img width="1920" height="888" alt="image" src="https://github.com/user-attachments/assets/ab68a169-10bc-47a9-ad58-4a991745b317" />
+
 
